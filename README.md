@@ -34,7 +34,6 @@ Upcoming Projects (In no particular order):
 25. Problem Practice Program (E.g, math or history or programming, etc.)
 26. A Quiz Program, why not?
 27. An insult generator, why not?
-
 28 A "Helpful Virus," basically just opens Windows Help repeatedly when ran.
 29. A Discord Chat Bot to police my very lonely, desserted Discord server.
 30. A News Application.
