@@ -34,10 +34,10 @@ Upcoming Projects (In no particular order):
 25. Problem Practice Program (E.g, math or history or programming, etc.)
 26. A Quiz Program, why not?
 27. An insult generator, why not?
-29 A "Helpful Virus," basically just opens Windows Help repeatedly when ran.
-30. A Discord Chat Bot to police my very lonely, desserted Discord server.
-31. A News Application.
-32. A Language App akin to Anki or Quizlet and community based. My Language-Learning Discord would love this!
+28 A "Helpful Virus," basically just opens Windows Help repeatedly when ran.
+29. A Discord Chat Bot to police my very lonely, desserted Discord server.
+30. A News Application.
+31. A Language App akin to Anki or Quizlet and community based. My Language-Learning Discord would love this!
 
 Questionable Projects (Are they worth the time?):
 1. Dice Roller Application.
