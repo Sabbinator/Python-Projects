@@ -46,7 +46,7 @@ Questionable Projects (Are they worth the time?):
 Goals to One Day Complete (Probably completed under the Sabb Entertainment banner):
 1. This Mars RPG game. Set in the future, has three or four cities, and a bunch of settlements. Lotta side quests, cool story. Plays like Witcher 3 or Assassins Creed: Origins.
 2. This Ninja MMO. Naruto, but with friends!
-3. Criminal Underworld. A better version of Grand Theft Auto.
+3. Criminal Underworld. A better version of Grand Theft Auto. Actual, more akin to the Mafia games than GTA.
 4. The Phantom. Mix of Batman Arkham Knight, Insomniac's Spider-Man, and the Watch Dogs games. Sounds fun!
 5. This epic Space-Detective game. It'll be amazing. It'll be like Star Wars, but even more awesome.
 6. War of the Five Kings, a medieval RPG game with multiplayer capablities. Akin to Game of Thrones and Skyrim or Witcher.
