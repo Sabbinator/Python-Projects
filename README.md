@@ -50,9 +50,9 @@ Goals to One Day Complete (Probably completed under the Sabb Entertainment banne
 4. The Phantom. Mix of Batman Arkham Knight, Insomniac's Spider-Man, and the Watch Dogs games. Sounds fun!
 5. This epic Space-Detective game. It'll be amazing. It'll be like Star Wars, but even more awesome.
 6. War of the Five Kings, a medieval RPG game with multiplayer capablities. Akin to Game of Thrones and Skyrim or Witcher.
-7. Something similar to Monster Hunter and Witcher 3. But cooler. Can't do any better than Witcher 3 unfortunately, that game is perfect.
-8. A WWIII FPS. Why not?
-9. An action-adventure RPG game akin to the first Watch Dogs.
+7. Something similar to the Monster Hunter games and the Witcher series. But cooler. Can't do any better than Witcher 3 unfortunately, that game is perfect.
+8. A WWIII FPS. Kinda like Crisis 3. Why not?
+9. An action-adventure RPG game akin to the first Watch Dogs. But, this time, the main character won't be a boring and unlikable character! Regardless of how badass Aiden was.
 
 Questions to Answer:
 1. A person on Reddit said "Make a RESTful API." What did s/he mean by this?
