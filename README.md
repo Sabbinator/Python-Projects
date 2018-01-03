@@ -37,7 +37,7 @@ Upcoming Projects (In no particular order):
 28 A "Helpful Virus," basically just opens Windows Help repeatedly when ran.
 29. A Discord Chat Bot to police my very lonely, desserted Discord server.
 30. A News Application.
-31. A Language App, akin to Anki or Quizlet, and community based. My other Discord would love this!
+31. A Language App akin to Anki or Quizlet and community based. My Language-Learning Discord would love this!
 
 Questionable Projects (Are they worth the time?):
 1. Dice Roller Application.
