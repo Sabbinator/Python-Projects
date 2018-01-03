@@ -1,5 +1,7 @@
 # Python
 
+Ignore grammatical mistakes, it is 4:57 AM. I shall read through this craziness later.
+
 Incomplete Projects:
 1. Basic Calculator Application (Status: Working on GUI)
 2. To Do List App (Status: Writing the code)
