@@ -5,6 +5,7 @@ Ignore grammatical mistakes, it is 4:57 AM. I shall read through this craziness 
 Incomplete Projects:
 1. Basic Calculator Application (Status: Next step is to make a GUI)
 2. To Do List App (Status: Writing the code)
+3. Godzilla Text-Based Game.
 
 Upcoming Projects (In no particular order):
 1. Notebook (Note-Taking) Application.
@@ -38,6 +39,7 @@ Upcoming Projects (In no particular order):
 29. A Discord Chat Bot to police my very lonely, desserted Discord server.
 30. A News Application.
 31. A Language App akin to Anki or Quizlet and community based. My Language-Learning Discord would love this!
+32. Password Application, like inputting and saving passwords. Maybe a lock screen too, I don't know.
 
 Questionable Projects (Are they worth the time?):
 1. Dice Roller Application.
@@ -56,5 +58,6 @@ Goals to One Day Complete (Probably completed under the Sabb Entertainment banne
 
 Questions to Answer:
 1. A person on Reddit said "Make a RESTful API." What did s/he mean by this?
+2. Difference between "Product" and "Permutation"?
 
 After all this, I'm sure I'll have more experience in Python and HTML/CSS/JavaScript (The Web Triumvirate as I call them) for Front-End development, so I'll move onto C then C++ and Java and finally onto C#. Then whatever after that. 
