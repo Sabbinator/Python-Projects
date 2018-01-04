@@ -5,7 +5,8 @@ Ignore grammatical mistakes, it is 4:57 AM. I shall read through this craziness 
 Incomplete Projects:
 1. Basic Calculator Application (Status: Next step is to make a GUI)
 2. To Do List App (Status: Writing the code)
-3. Godzilla Text-Based Game (Status: Writing the code)
+3. Godzilla text-based game (Status: Writing the code)
+4. Action, fantasy, RPG text-based game. (Status: Writing the code)
 
 Upcoming Projects (In no particular order):
 1. Notebook (Note-Taking) Application.
