@@ -7,6 +7,7 @@ Incomplete Projects:
 2. To Do List App (Status: Writing the code)
 3. Godzilla text-based game (Status: Writing the code)
 4. Action, fantasy, RPG text-based game. (Status: Writing the code)
+5. Login system. (Status: Writing the code)
 
 Upcoming Projects (In no particular order):
 1. Notebook (Note-Taking) Application.
