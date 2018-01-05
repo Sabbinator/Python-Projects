@@ -11,7 +11,7 @@ Incomplete Projects:
 
 Upcoming Projects (In no particular order):
 1. Notebook (Note-Taking) Application.
-2. Text Editor Application (Think 
+2. Text Editor Application.
 3. Calendar Application.
 4. Contacts Application
 5. Messenger Application.
