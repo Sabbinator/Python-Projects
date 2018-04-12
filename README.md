@@ -1,7 +1,5 @@
 # Python
 
-Ignore grammatical mistakes, it is 4:57 AM. I shall read through this craziness later.
-
 Incomplete Projects:
 1. Basic Calculator Application (Status: Next step is to make a GUI)
 2. To Do List App (Status: Writing the code)
@@ -46,20 +44,3 @@ Upcoming Projects (In no particular order):
 Questionable Projects (Are they worth the time?):
 1. Dice Roller Application.
 2. Tic-Tac-Toe Application.
-
-Goals to One Day Complete (Probably completed under the Sabb Entertainment banner):
-1. This Mars RPG game. Set in the future, has three or four cities, and a bunch of settlements. Lotta side quests, cool story. Plays like Witcher 3 or Assassins Creed: Origins.
-2. This Ninja MMO. Naruto, but with friends!
-3. Criminal Underworld. A better version of Grand Theft Auto. Actual, more akin to the Mafia games than GTA.
-4. The Phantom. Mix of Batman Arkham Knight, Insomniac's Spider-Man, and the Watch Dogs games. Sounds fun!
-5. This epic Space-Detective game. It'll be amazing. It'll be like Star Wars, but even more awesome.
-6. War of the Five Kings, a medieval RPG game with multiplayer capablities. Akin to Game of Thrones and Skyrim or Witcher.
-7. Something similar to the Monster Hunter games and the Witcher series. But cooler. Can't do any better than Witcher 3 unfortunately, that game is perfect.
-8. A WWIII FPS. Kinda like Crisis 3. Why not?
-9. An action-adventure RPG game akin to the first Watch Dogs. But, this time, the main character won't be a boring and unlikable character! Regardless of how badass Aiden was.
-
-Questions to Answer:
-1. A person on Reddit said "Make a RESTful API." What did s/he mean by this?
-2. Difference between "Product" and "Permutation"?
-
-After all this, I'm sure I'll have more experience in Python and HTML/CSS/JavaScript (The Web Triumvirate as I call them) for Front-End development, so I'll move onto C then C++ and Java and finally onto C#. Then whatever after that. 
