@@ -1,11 +1,10 @@
 # Python
 
-Incomplete Projects:
-1. Basic Calculator Application (Status: Next step is to make a GUI)
-2. To Do List App (Status: Writing the code)
-3. Godzilla text-based game (Status: Writing the code)
-4. Action, fantasy, RPG text-based game. (Status: Writing the code)
-5. Login system. (Status: Writing the code)
+Incomplete Projects In No Particular Order:
+1. Alarm App (Status: Writing Code)
+2. Basic Calculator Application (Status: Writing Code)
+3. Chat Application (Status: Refactoring and messing with networking)
+2. To-Do List App (Status: Writing Code)
 
 Upcoming Projects (In no particular order):
 1. Notebook (Note-Taking) Application.
@@ -40,7 +39,4 @@ Upcoming Projects (In no particular order):
 30. A News Application.
 31. A Language App akin to Anki or Quizlet and community based. My Language-Learning Discord would love this!
 32. Password Application, like inputting and saving passwords. Maybe a lock screen too, I don't know.
-
-Questionable Projects (Are they worth the time?):
-1. Dice Roller Application.
-2. Tic-Tac-Toe Application.
+33. And a gazillion others...
