@@ -43,5 +43,3 @@ else:
         else:
             print("(In Spongebob Voice) It's the best day ever (best day ever)")
 print()
-
-# Hello future me, hope life is doing well for you. Just wanted to let you know: Fuck you, my code isn't too trashy.
